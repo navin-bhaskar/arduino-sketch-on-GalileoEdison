@@ -15,5 +15,5 @@ itself.
 # Modifying the scons
 The target for compilation can be selected by changing the "board" variable in SConstruct.
 ALso new or other source files can be added by naming them in the second argument list to env.Program().
-You can find more information regarding this here: http://navinbhaskar.blogspot.in/2015/08/compiling-arduino-sketchs-on.html
+You can find more information regarding this here: https://navinbhaskar.wordpress.com/2015/08/28/compiling-arduino-sketchs-on-galileoedison-from-command-line/
    

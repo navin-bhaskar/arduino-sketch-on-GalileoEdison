@@ -9,7 +9,7 @@ itself.
 * Extract the downladed Arduino archive and copy the "Hardware" folder into the folder where this repo was cloned  
 * run "scons"
 * This will compile blink.cpp and output sketch.elf
-* Run sketch.elf to see LED connected at port D5 blink using command ./sketch.elf
+* Run sketch.elf to see LED connected at port D5 blink using command "./sketch.elf foo bar"
 * Exit the application any time by hitting ctrl+c
 
 # Modifying the scons
